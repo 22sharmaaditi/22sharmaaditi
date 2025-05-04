@@ -1,9 +1,7 @@
 ## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Aditi Sharma 
 
 
-<h4>I am a 3rd year college student doing bachelors in Technology in Mechanical Engineering <br><br>I have interest in Web Developement.<br><br>I code formally in C++<br><br>Thanks for taking time to read this. Follow me to hear more about me. :)</h4>
-
-- My Instagram Page : [https://www.instagram.com/amandwivedi.26/](https://www.instagram.com/amandwivedi.26/)
+<h4>I am a 3rd year college student doing bachelors in Technology in Mechanical Engineering <br><br>I have interest in Web Developement.<br><br>I code formally in C++<br><br>Thanks for taking time to read this.:)</h4>
 
 
 [![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/aman_d26)
