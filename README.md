@@ -5,7 +5,6 @@
 
 - My Instagram Page : [https://www.instagram.com/amandwivedi.26/](https://www.instagram.com/amandwivedi.26/)
 
-- My YouTube Channel : [https://www.youtube.com/c/Dreaminger](https://www.youtube.com/c/Dreaminger)
 
 [![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/aman_d26)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/amandwivedi9012)
